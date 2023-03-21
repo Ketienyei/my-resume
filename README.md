@@ -1,2 +1,2 @@
 # my-resume - day 
-updating 
+update
